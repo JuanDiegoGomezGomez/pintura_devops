@@ -11,3 +11,12 @@ body {
   margin: 0;
   padding: 0;
 }
+ .moon {
+  width: 100px;
+  height: 100px;
+  margin-top: 10%;
+  margin-left: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  background: radial-gradient(rgb(0, 183, 255) 40%, rgb(0, 16, 36));
+}
